@@ -1,10 +1,9 @@
 # Knowledge Base
 
+Besides articles in this repo, other resources include:
+
 * [General machine-learning operators](https://github.com/slm-bj/mlOperatorIntro)
-
 * [Notes of An Introduction of Statistical Learning](https://github.com/leetschau/ISLNotes)
-
-* [Notes of Style Guide for Python Code](python_style_guide.md)
 
 ## For developers
 
